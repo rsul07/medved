@@ -1,0 +1,7 @@
+{
+  "name": "Laura Reserve Guide",
+  "description": "Интерактивная карта и гид по вольерному комплексу «Лаура» Кавказского заповедника (Сочи).",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
